@@ -5,3 +5,11 @@ Below is the tech stack used to build the project
 - JUnit
 - RestAssured
 - Maven
+
+This contains:
+
+
+- API Test Automation
+- Gherkin-Based Scenarios
+- Maven Integration
+- Cucumber Reports
